@@ -34,7 +34,7 @@
                     <li> <span class="text-gray-base text-medium">Published:&nbsp;</span>
                       <time datetime="2016-01-22">{{ $post->created_at->diffForHumans() }}</time>
                     </li>
-                    <li> <span class="text-gray-base text-medium">Posted by:&nbsp;</span> <a href="#" class="post-meta-admin">{{ $post->user->name }}</a> </li>
+                    <li> <span class="text-gray-base text-medium">Posted by:&nbsp;</span> <a href="#" class="post-meta-admin">Neeta Arora</a> </li>
                     <li> <span class="text-gray-base text-medium">Comments:&nbsp;</span> <a href="#" class="post-meta-comment">2</a> </li> </li>
                   </ul>
                 </div>
@@ -77,7 +77,7 @@
                               </div>
                             </div>
                           </header>
-                          <p class="box-comment-message">Very useful post! Thanks for sharing! Now I’ll be planning my visit to your gym to take part in some fitness classes.</p>
+                          <p class="box-comment-message">Very useful post! Thanks for sharing!</p>
                         </div>
                       </div>
                     </div>
