@@ -9,11 +9,11 @@
     
      <div class="cell-sm-6 cell-md-12">
 	    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- Ad 1 -->
+		<!-- Vedas Ad 1 -->
 		<ins class="adsbygoogle"
 		     style="display:block"
 		     data-ad-client="ca-pub-8327205924222954"
-		     data-ad-slot="7541066422"
+		     data-ad-slot="9137917224"
 		     data-ad-format="auto"></ins>
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
@@ -22,15 +22,15 @@
 	
 	<div class="cell-sm-6 cell-md-12">
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- Ad 2 -->
+		<!-- Vedas Ad 2 -->
 		<ins class="adsbygoogle"
 		     style="display:block"
 		     data-ad-client="ca-pub-8327205924222954"
-		     data-ad-slot="9017799627"
+		     data-ad-slot="3091383625"
 		     data-ad-format="auto"></ins>
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>	
+</script>
    </div>
     
   </div>
