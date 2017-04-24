@@ -22,6 +22,7 @@ Route::get('/posts/create', 'PostsController@create');
 Route::get('/posts/{post}', 'PostsController@show');
 Route::get('/posts/{id}/edit', 'PostsController@edit');
 Route::post('/posts/{post}', 'PostsController@update');
+Route::get('/posts/{post}/delete', 'PostsController@destroy');
 
 
 Route::get('/courses', 'CoursesController@index');
